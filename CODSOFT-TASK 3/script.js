@@ -5,7 +5,7 @@ window.onload = function() {
     container.addEventListener("click", function(e) {
         buttonClick(e.target.id);
     });
-
+ 
     var calc = document.getElementById("Button=");
     calc.addEventListener("click",calculate);
 
