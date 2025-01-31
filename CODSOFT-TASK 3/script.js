@@ -18,7 +18,7 @@ window.onload = function() {
              var s = buttonId;
              s = s.replace("Button", "");
              entries(s);
-        }
+        }  
     }
 
     function entries(s) {
